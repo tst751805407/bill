@@ -20,6 +20,7 @@ public class JAVA8 {
             }
         };
 
+
         System.out.println(formula.calculate(100));     // 100.0
         System.out.println(formula.sqrt(16));           // 4.0
 
